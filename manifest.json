@@ -1,7 +1,7 @@
 {
   "name": "My PWA",
   "short_name": "PWA",
-  "start_url": "/RMB_Cost/index.html",
+  "start_url": "/Phone_Version_RMB_Cost/phone_version.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1f5021",
